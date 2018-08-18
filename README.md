@@ -1,5 +1,6 @@
 # Intro-to-AI-and-ML
 Python version : 2.7.12
+<br>
 Requirements: numpy
 # Assignment 1:
 # 1.py:
