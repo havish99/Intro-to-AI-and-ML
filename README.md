@@ -1,4 +1,6 @@
 # Intro-to-AI-and-ML
+Python version : 2.7.12
+Requirements: numpy
 # Assignment 1:
 # 1.py:
 Implementation of vanilla regression.
